@@ -1,0 +1,46 @@
+*{ margin: 0;}
+body{
+    background-image:url("http://www.unidis.fr/sante-securite/wp-content/uploads/2012/10/Background4.png");
+    background-attachment:fixed;
+    background-size:1300px;}
+header{
+    background-color: aliceblue;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5J-lB4LkD4FdkPJgd-didmlNcIN6kC1XgRg&usqp=CAU" );
+    background-size: cover;
+    background-position: center top;
+    text-align: right;
+    margin-top:0cm;}
+    #pp{
+        color:rgb(65, 173, 236);
+        font-style: oblique;
+        text-align: center;}
+nav ul li{
+        list-style-type: none ;
+        display: inline-block;
+        padding:2%; }
+    #aceuil{
+        color: black;
+        text-align:right;}
+    #conseil{
+        color: rgb(26, 139, 245);
+        text-align: right;}
+    #arabe{
+        color: rgb(218, 220, 67);
+        text-align: right; }
+    #sante{
+        float:left;
+        width: 12%;
+        margin-top:-0.7cm;
+        margin-left: -3.5cm;}
+hgroup{
+        background-color: rgb(240, 243, 70);
+        text-align:center; }
+figure{ color: blue;
+        text-align:center;}
+section{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        padding: 2cm;}
+img{ width: 50%;}
+p{text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
